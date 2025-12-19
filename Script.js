@@ -1,4 +1,5 @@
-
+// Add this utility function to convert Unicode to ASCII for CSV
+        function toAsciiText(text) {
             if (!text) return '';
 
             // Replace Unicode box-drawing characters with ASCII equivalents
@@ -5023,4 +5024,3 @@ To import: Use the "Complete Database Import" feature in the Bulk Import tab.`);
                 await updateClassFilterDropdown(semesterFilter, branchFilter);
             });
         })();
- 

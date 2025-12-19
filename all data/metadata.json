@@ -1,0 +1,18 @@
+{
+  "exportType": "Complete Database Backup",
+  "exportDate": "2025-12-11T19:19:53.206Z",
+  "records": {
+    "students": 261,
+    "faculty": 15,
+    "classes": 28,
+    "attendance": 1010,
+    "years": 0,
+    "settings": 0
+  },
+  "systemInfo": {
+    "dbName": "AdvancedAttendanceDB",
+    "dbVersion": 2,
+    "appName": "Advanced Attendance System",
+    "version": "1.0"
+  }
+}

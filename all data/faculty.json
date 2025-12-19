@@ -1,0 +1,167 @@
+[
+  {
+    "facultyId": "FAC001",
+    "password": "pass123",
+    "firstName": "Dr. Ajay",
+    "lastName": "Kumar",
+    "email": "ajay.kumar@geck.ac.in",
+    "department": "Computer Science",
+    "specialization": "",
+    "createdAt": "2025-12-03T17:05:37.252Z",
+    "id": 24
+  },
+  {
+    "facultyId": "FAC002",
+    "password": "pass123",
+    "firstName": "Dr. Intyaz",
+    "lastName": "Alam",
+    "email": "intyaz.alam@geck.ac.in",
+    "department": "Computer Science",
+    "specialization": "",
+    "createdAt": "2025-12-03T17:05:37.253Z",
+    "id": 25
+  },
+  {
+    "facultyId": "FAC003",
+    "password": "pass123",
+    "firstName": "Mr. Chandan",
+    "lastName": "Kumar",
+    "email": "chandan.kumar@geck.ac.in",
+    "department": "Computer Science",
+    "specialization": "",
+    "createdAt": "2025-12-03T17:05:37.254Z",
+    "id": 26
+  },
+  {
+    "facultyId": "FAC004",
+    "password": "pass123",
+    "firstName": "Mr. Rajnish",
+    "lastName": "Kumar",
+    "email": "rajnish.kumar@geck.ac.in",
+    "department": "Computer Science",
+    "specialization": "",
+    "createdAt": "2025-12-03T17:05:37.254Z",
+    "id": 27
+  },
+  {
+    "facultyId": "FAC005",
+    "password": "pass123",
+    "firstName": "Mr. Sandeep",
+    "lastName": "Kumar",
+    "email": "sandeep.kumar@geck.ac.in",
+    "department": "Computer Science",
+    "specialization": "",
+    "createdAt": "2025-12-03T17:05:37.254Z",
+    "id": 28
+  },
+  {
+    "facultyId": "FAC006",
+    "password": "pass123",
+    "firstName": "Mrs. Vandana",
+    "lastName": "",
+    "email": "vandana@geck.ac.in",
+    "department": "Computer Science",
+    "specialization": "",
+    "createdAt": "2025-12-03T17:05:37.255Z",
+    "id": 29
+  },
+  {
+    "facultyId": "FAC007",
+    "password": "pass123",
+    "firstName": "Mrs. Annu",
+    "lastName": "Kumari",
+    "email": "annu.kumari@geck.ac.in",
+    "department": "Computer Science",
+    "specialization": "",
+    "createdAt": "2025-12-03T17:05:37.255Z",
+    "id": 30
+  },
+  {
+    "id": 31,
+    "facultyId": "FAC001",
+    "firstName": "Dr. Rajnesh",
+    "lastName": "Kumar",
+    "email": "",
+    "department": "Applied Science",
+    "specialization": "Mathematics",
+    "password": "pass123",
+    "createdAt": "2025-12-03T17:08:01.090Z"
+  },
+  {
+    "facultyId": "FAC4401",
+    "firstName": "Ms.",
+    "lastName": "Nasreen Khan",
+    "email": "ms..nasreen khan@college.edu",
+    "department": "Computer Science",
+    "specialization": "Digital Electronics (DE)",
+    "password": "pass123",
+    "createdAt": "2025-12-04T18:11:47.311Z",
+    "id": 32
+  },
+  {
+    "facultyId": "FAC8376",
+    "firstName": "Mrs.",
+    "lastName": "Shweta Kumari",
+    "email": "mrs..shweta kumari@college.edu",
+    "department": "Computer Science",
+    "specialization": "Digital Electronics",
+    "password": "pass123",
+    "createdAt": "2025-12-04T18:11:47.317Z",
+    "id": 33
+  },
+  {
+    "facultyId": "FAC4226",
+    "firstName": "Dr.",
+    "lastName": "Jitendra Kumar Dubey",
+    "email": "dr..jitendra kumar dubey@college.edu",
+    "department": "Computer Science",
+    "specialization": "Engineering Mathematics-I",
+    "password": "pass123",
+    "createdAt": "2025-12-04T18:11:47.323Z",
+    "id": 34
+  },
+  {
+    "facultyId": "FAC4342",
+    "firstName": "Dr.",
+    "lastName": "Nitaj Kumar Rai",
+    "email": "dr..nitaj kumar rai@college.edu",
+    "department": "Computer Science",
+    "specialization": "Engineering Physics",
+    "password": "pass123",
+    "createdAt": "2025-12-04T18:11:47.324Z",
+    "id": 35
+  },
+  {
+    "id": 36,
+    "facultyId": "FAC9826",
+    "firstName": "Mr.",
+    "lastName": "Ram Pratap Singh",
+    "email": "",
+    "department": "ECE",
+    "specialization": "",
+    "password": "pass123",
+    "createdAt": "2025-12-04T18:11:47.327Z"
+  },
+  {
+    "facultyId": "FAC0497",
+    "firstName": "Mr.",
+    "lastName": "Sikander Singh",
+    "email": "mr..sikander singh@college.edu",
+    "department": "Computer Science",
+    "specialization": "Swachha Bharat Mission (SBM)",
+    "password": "pass123",
+    "createdAt": "2025-12-04T18:11:47.329Z",
+    "id": 37
+  },
+  {
+    "id": 38,
+    "facultyId": "FAC002",
+    "firstName": "Dr. Punit",
+    "lastName": "Tiwari",
+    "email": "",
+    "department": "Applied Science",
+    "specialization": "Biology",
+    "password": "pass123",
+    "createdAt": "2025-12-11T10:06:27.513Z"
+  }
+]

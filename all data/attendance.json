@@ -1,0 +1,8530 @@
+[
+  {
+    "classId": 31,
+    "studentId": 1,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 1
+  },
+  {
+    "classId": 31,
+    "studentId": 2,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 2
+  },
+  {
+    "classId": 31,
+    "studentId": 3,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 3
+  },
+  {
+    "classId": 31,
+    "studentId": 4,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 4
+  },
+  {
+    "classId": 31,
+    "studentId": 5,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 5
+  },
+  {
+    "classId": 31,
+    "studentId": 6,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 6
+  },
+  {
+    "classId": 31,
+    "studentId": 7,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 7
+  },
+  {
+    "classId": 31,
+    "studentId": 8,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 8
+  },
+  {
+    "classId": 31,
+    "studentId": 9,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 9
+  },
+  {
+    "classId": 31,
+    "studentId": 10,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 10
+  },
+  {
+    "classId": 31,
+    "studentId": 11,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 11
+  },
+  {
+    "classId": 31,
+    "studentId": 12,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 12
+  },
+  {
+    "classId": 31,
+    "studentId": 13,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 13
+  },
+  {
+    "classId": 31,
+    "studentId": 14,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 14
+  },
+  {
+    "classId": 31,
+    "studentId": 15,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 15
+  },
+  {
+    "classId": 31,
+    "studentId": 16,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 16
+  },
+  {
+    "classId": 31,
+    "studentId": 17,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 17
+  },
+  {
+    "classId": 31,
+    "studentId": 18,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 18
+  },
+  {
+    "classId": 31,
+    "studentId": 19,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 19
+  },
+  {
+    "classId": 31,
+    "studentId": 20,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 20
+  },
+  {
+    "classId": 31,
+    "studentId": 21,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 21
+  },
+  {
+    "classId": 31,
+    "studentId": 22,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 22
+  },
+  {
+    "classId": 31,
+    "studentId": 23,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 23
+  },
+  {
+    "classId": 31,
+    "studentId": 24,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 24
+  },
+  {
+    "classId": 31,
+    "studentId": 25,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 25
+  },
+  {
+    "classId": 31,
+    "studentId": 26,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 26
+  },
+  {
+    "classId": 31,
+    "studentId": 27,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 27
+  },
+  {
+    "classId": 31,
+    "studentId": 28,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 28
+  },
+  {
+    "classId": 31,
+    "studentId": 29,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 29
+  },
+  {
+    "classId": 31,
+    "studentId": 30,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 30
+  },
+  {
+    "classId": 31,
+    "studentId": 31,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 31
+  },
+  {
+    "classId": 31,
+    "studentId": 32,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 32
+  },
+  {
+    "classId": 31,
+    "studentId": 33,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 33
+  },
+  {
+    "classId": 31,
+    "studentId": 34,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 34
+  },
+  {
+    "classId": 31,
+    "studentId": 35,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 35
+  },
+  {
+    "classId": 31,
+    "studentId": 36,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 36
+  },
+  {
+    "classId": 31,
+    "studentId": 37,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 37
+  },
+  {
+    "classId": 31,
+    "studentId": 38,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 38
+  },
+  {
+    "classId": 31,
+    "studentId": 39,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 39
+  },
+  {
+    "classId": 31,
+    "studentId": 40,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 40
+  },
+  {
+    "classId": 31,
+    "studentId": 41,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 41
+  },
+  {
+    "classId": 31,
+    "studentId": 42,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 42
+  },
+  {
+    "classId": 31,
+    "studentId": 43,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 43
+  },
+  {
+    "classId": 31,
+    "studentId": 44,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 44
+  },
+  {
+    "classId": 31,
+    "studentId": 45,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 45
+  },
+  {
+    "classId": 31,
+    "studentId": 46,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 46
+  },
+  {
+    "classId": 31,
+    "studentId": 47,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 47
+  },
+  {
+    "classId": 31,
+    "studentId": 48,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 48
+  },
+  {
+    "classId": 31,
+    "studentId": 49,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 49
+  },
+  {
+    "classId": 31,
+    "studentId": 50,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 50
+  },
+  {
+    "classId": 31,
+    "studentId": 51,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 51
+  },
+  {
+    "classId": 31,
+    "studentId": 52,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 52
+  },
+  {
+    "classId": 31,
+    "studentId": 53,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 53
+  },
+  {
+    "classId": 31,
+    "studentId": 54,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 54
+  },
+  {
+    "classId": 31,
+    "studentId": 55,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 55
+  },
+  {
+    "classId": 31,
+    "studentId": 56,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T17:54:23.079Z",
+    "id": 56
+  },
+  {
+    "classId": 19,
+    "studentId": 383,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 57
+  },
+  {
+    "classId": 19,
+    "studentId": 384,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 58
+  },
+  {
+    "classId": 19,
+    "studentId": 385,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 59
+  },
+  {
+    "classId": 19,
+    "studentId": 386,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 60
+  },
+  {
+    "classId": 19,
+    "studentId": 387,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 61
+  },
+  {
+    "classId": 19,
+    "studentId": 388,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 62
+  },
+  {
+    "classId": 19,
+    "studentId": 389,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 63
+  },
+  {
+    "classId": 19,
+    "studentId": 390,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 64
+  },
+  {
+    "classId": 19,
+    "studentId": 391,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 65
+  },
+  {
+    "classId": 19,
+    "studentId": 392,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 66
+  },
+  {
+    "classId": 19,
+    "studentId": 393,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 67
+  },
+  {
+    "classId": 19,
+    "studentId": 394,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 68
+  },
+  {
+    "classId": 19,
+    "studentId": 395,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 69
+  },
+  {
+    "classId": 19,
+    "studentId": 396,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 70
+  },
+  {
+    "classId": 19,
+    "studentId": 397,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 71
+  },
+  {
+    "classId": 19,
+    "studentId": 398,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 72
+  },
+  {
+    "classId": 19,
+    "studentId": 399,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 73
+  },
+  {
+    "classId": 19,
+    "studentId": 400,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 74
+  },
+  {
+    "classId": 19,
+    "studentId": 401,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 75
+  },
+  {
+    "classId": 19,
+    "studentId": 402,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 76
+  },
+  {
+    "classId": 19,
+    "studentId": 403,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 77
+  },
+  {
+    "classId": 19,
+    "studentId": 404,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 78
+  },
+  {
+    "classId": 19,
+    "studentId": 405,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 79
+  },
+  {
+    "classId": 19,
+    "studentId": 406,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:01.915Z",
+    "id": 80
+  },
+  {
+    "classId": 19,
+    "studentId": 383,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 81
+  },
+  {
+    "classId": 19,
+    "studentId": 384,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 82
+  },
+  {
+    "classId": 19,
+    "studentId": 385,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 83
+  },
+  {
+    "classId": 19,
+    "studentId": 386,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 84
+  },
+  {
+    "classId": 19,
+    "studentId": 387,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 85
+  },
+  {
+    "classId": 19,
+    "studentId": 388,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 86
+  },
+  {
+    "classId": 19,
+    "studentId": 389,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 87
+  },
+  {
+    "classId": 19,
+    "studentId": 390,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 88
+  },
+  {
+    "classId": 19,
+    "studentId": 391,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 89
+  },
+  {
+    "classId": 19,
+    "studentId": 392,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 90
+  },
+  {
+    "classId": 19,
+    "studentId": 393,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 91
+  },
+  {
+    "classId": 19,
+    "studentId": 394,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 92
+  },
+  {
+    "classId": 19,
+    "studentId": 395,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 93
+  },
+  {
+    "classId": 19,
+    "studentId": 396,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 94
+  },
+  {
+    "classId": 19,
+    "studentId": 397,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 95
+  },
+  {
+    "classId": 19,
+    "studentId": 398,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 96
+  },
+  {
+    "classId": 19,
+    "studentId": 399,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 97
+  },
+  {
+    "classId": 19,
+    "studentId": 400,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 98
+  },
+  {
+    "classId": 19,
+    "studentId": 401,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 99
+  },
+  {
+    "classId": 19,
+    "studentId": 402,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 100
+  },
+  {
+    "classId": 19,
+    "studentId": 403,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 101
+  },
+  {
+    "classId": 19,
+    "studentId": 404,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 102
+  },
+  {
+    "classId": 19,
+    "studentId": 405,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 103
+  },
+  {
+    "classId": 19,
+    "studentId": 406,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:02:09.366Z",
+    "id": 104
+  },
+  {
+    "classId": 36,
+    "studentId": 1,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.138Z",
+    "id": 105
+  },
+  {
+    "classId": 36,
+    "studentId": 2,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.140Z",
+    "id": 106
+  },
+  {
+    "classId": 36,
+    "studentId": 3,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.144Z",
+    "id": 107
+  },
+  {
+    "classId": 36,
+    "studentId": 4,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.145Z",
+    "id": 108
+  },
+  {
+    "classId": 36,
+    "studentId": 5,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.146Z",
+    "id": 109
+  },
+  {
+    "classId": 36,
+    "studentId": 6,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.147Z",
+    "id": 110
+  },
+  {
+    "classId": 36,
+    "studentId": 7,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.151Z",
+    "id": 111
+  },
+  {
+    "classId": 36,
+    "studentId": 8,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.152Z",
+    "id": 112
+  },
+  {
+    "classId": 36,
+    "studentId": 9,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.152Z",
+    "id": 113
+  },
+  {
+    "classId": 36,
+    "studentId": 10,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.152Z",
+    "id": 114
+  },
+  {
+    "classId": 36,
+    "studentId": 11,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.153Z",
+    "id": 115
+  },
+  {
+    "classId": 36,
+    "studentId": 12,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.153Z",
+    "id": 116
+  },
+  {
+    "classId": 36,
+    "studentId": 13,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.154Z",
+    "id": 117
+  },
+  {
+    "classId": 36,
+    "studentId": 14,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.154Z",
+    "id": 118
+  },
+  {
+    "classId": 36,
+    "studentId": 15,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.155Z",
+    "id": 119
+  },
+  {
+    "classId": 36,
+    "studentId": 16,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.155Z",
+    "id": 120
+  },
+  {
+    "classId": 36,
+    "studentId": 17,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.155Z",
+    "id": 121
+  },
+  {
+    "classId": 36,
+    "studentId": 18,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.156Z",
+    "id": 122
+  },
+  {
+    "classId": 36,
+    "studentId": 19,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.156Z",
+    "id": 123
+  },
+  {
+    "classId": 36,
+    "studentId": 20,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.156Z",
+    "id": 124
+  },
+  {
+    "classId": 36,
+    "studentId": 21,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.157Z",
+    "id": 125
+  },
+  {
+    "classId": 36,
+    "studentId": 22,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.157Z",
+    "id": 126
+  },
+  {
+    "classId": 36,
+    "studentId": 23,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.157Z",
+    "id": 127
+  },
+  {
+    "classId": 36,
+    "studentId": 24,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.157Z",
+    "id": 128
+  },
+  {
+    "classId": 36,
+    "studentId": 25,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.158Z",
+    "id": 129
+  },
+  {
+    "classId": 36,
+    "studentId": 26,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.158Z",
+    "id": 130
+  },
+  {
+    "classId": 36,
+    "studentId": 27,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.158Z",
+    "id": 131
+  },
+  {
+    "classId": 36,
+    "studentId": 28,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.159Z",
+    "id": 132
+  },
+  {
+    "classId": 36,
+    "studentId": 29,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.159Z",
+    "id": 133
+  },
+  {
+    "classId": 36,
+    "studentId": 30,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.159Z",
+    "id": 134
+  },
+  {
+    "classId": 36,
+    "studentId": 31,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.160Z",
+    "id": 135
+  },
+  {
+    "classId": 36,
+    "studentId": 32,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.160Z",
+    "id": 136
+  },
+  {
+    "classId": 36,
+    "studentId": 33,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.160Z",
+    "id": 137
+  },
+  {
+    "classId": 36,
+    "studentId": 34,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.161Z",
+    "id": 138
+  },
+  {
+    "classId": 36,
+    "studentId": 35,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.161Z",
+    "id": 139
+  },
+  {
+    "classId": 36,
+    "studentId": 36,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.161Z",
+    "id": 140
+  },
+  {
+    "classId": 36,
+    "studentId": 37,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.162Z",
+    "id": 141
+  },
+  {
+    "classId": 36,
+    "studentId": 38,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.162Z",
+    "id": 142
+  },
+  {
+    "classId": 36,
+    "studentId": 53,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:07:00.162Z",
+    "id": 143
+  },
+  {
+    "classId": 36,
+    "studentId": 54,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:07:00.163Z",
+    "id": 144
+  },
+  {
+    "classId": 33,
+    "studentId": 1,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.696Z",
+    "id": 145
+  },
+  {
+    "classId": 33,
+    "studentId": 2,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.697Z",
+    "id": 146
+  },
+  {
+    "classId": 33,
+    "studentId": 3,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.698Z",
+    "id": 147
+  },
+  {
+    "classId": 33,
+    "studentId": 4,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.699Z",
+    "id": 148
+  },
+  {
+    "classId": 33,
+    "studentId": 5,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.699Z",
+    "id": 149
+  },
+  {
+    "classId": 33,
+    "studentId": 6,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.699Z",
+    "id": 150
+  },
+  {
+    "classId": 33,
+    "studentId": 7,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.699Z",
+    "id": 151
+  },
+  {
+    "classId": 33,
+    "studentId": 8,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.700Z",
+    "id": 152
+  },
+  {
+    "classId": 33,
+    "studentId": 9,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.700Z",
+    "id": 153
+  },
+  {
+    "classId": 33,
+    "studentId": 10,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.700Z",
+    "id": 154
+  },
+  {
+    "classId": 33,
+    "studentId": 11,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.700Z",
+    "id": 155
+  },
+  {
+    "classId": 33,
+    "studentId": 12,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.701Z",
+    "id": 156
+  },
+  {
+    "classId": 33,
+    "studentId": 13,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.701Z",
+    "id": 157
+  },
+  {
+    "classId": 33,
+    "studentId": 14,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.702Z",
+    "id": 158
+  },
+  {
+    "classId": 33,
+    "studentId": 15,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.702Z",
+    "id": 159
+  },
+  {
+    "classId": 33,
+    "studentId": 16,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.703Z",
+    "id": 160
+  },
+  {
+    "classId": 33,
+    "studentId": 17,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.703Z",
+    "id": 161
+  },
+  {
+    "classId": 33,
+    "studentId": 18,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.704Z",
+    "id": 162
+  },
+  {
+    "classId": 33,
+    "studentId": 19,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.704Z",
+    "id": 163
+  },
+  {
+    "classId": 33,
+    "studentId": 20,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.704Z",
+    "id": 164
+  },
+  {
+    "classId": 33,
+    "studentId": 21,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.705Z",
+    "id": 165
+  },
+  {
+    "classId": 33,
+    "studentId": 22,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.705Z",
+    "id": 166
+  },
+  {
+    "classId": 33,
+    "studentId": 23,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.705Z",
+    "id": 167
+  },
+  {
+    "classId": 33,
+    "studentId": 24,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.705Z",
+    "id": 168
+  },
+  {
+    "classId": 33,
+    "studentId": 25,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.706Z",
+    "id": 169
+  },
+  {
+    "classId": 33,
+    "studentId": 26,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.706Z",
+    "id": 170
+  },
+  {
+    "classId": 33,
+    "studentId": 27,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.708Z",
+    "id": 171
+  },
+  {
+    "classId": 33,
+    "studentId": 28,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.709Z",
+    "id": 172
+  },
+  {
+    "classId": 33,
+    "studentId": 29,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.710Z",
+    "id": 173
+  },
+  {
+    "classId": 33,
+    "studentId": 30,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.710Z",
+    "id": 174
+  },
+  {
+    "classId": 33,
+    "studentId": 31,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.711Z",
+    "id": 175
+  },
+  {
+    "classId": 33,
+    "studentId": 32,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.711Z",
+    "id": 176
+  },
+  {
+    "classId": 33,
+    "studentId": 33,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.711Z",
+    "id": 177
+  },
+  {
+    "classId": 33,
+    "studentId": 34,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.712Z",
+    "id": 178
+  },
+  {
+    "classId": 33,
+    "studentId": 35,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.712Z",
+    "id": 179
+  },
+  {
+    "classId": 33,
+    "studentId": 36,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.712Z",
+    "id": 180
+  },
+  {
+    "classId": 33,
+    "studentId": 37,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.712Z",
+    "id": 181
+  },
+  {
+    "classId": 33,
+    "studentId": 38,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.712Z",
+    "id": 182
+  },
+  {
+    "classId": 33,
+    "studentId": 53,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:09.712Z",
+    "id": 183
+  },
+  {
+    "classId": 33,
+    "studentId": 54,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:09.713Z",
+    "id": 184
+  },
+  {
+    "classId": 33,
+    "studentId": 1,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.279Z",
+    "id": 185
+  },
+  {
+    "classId": 33,
+    "studentId": 2,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.281Z",
+    "id": 186
+  },
+  {
+    "classId": 33,
+    "studentId": 3,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.283Z",
+    "id": 187
+  },
+  {
+    "classId": 33,
+    "studentId": 4,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.285Z",
+    "id": 188
+  },
+  {
+    "classId": 33,
+    "studentId": 5,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.286Z",
+    "id": 189
+  },
+  {
+    "classId": 33,
+    "studentId": 6,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.286Z",
+    "id": 190
+  },
+  {
+    "classId": 33,
+    "studentId": 7,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.287Z",
+    "id": 191
+  },
+  {
+    "classId": 33,
+    "studentId": 8,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.288Z",
+    "id": 192
+  },
+  {
+    "classId": 33,
+    "studentId": 9,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.289Z",
+    "id": 193
+  },
+  {
+    "classId": 33,
+    "studentId": 10,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.295Z",
+    "id": 194
+  },
+  {
+    "classId": 33,
+    "studentId": 11,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.296Z",
+    "id": 195
+  },
+  {
+    "classId": 33,
+    "studentId": 12,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.297Z",
+    "id": 196
+  },
+  {
+    "classId": 33,
+    "studentId": 13,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.299Z",
+    "id": 197
+  },
+  {
+    "classId": 33,
+    "studentId": 14,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.300Z",
+    "id": 198
+  },
+  {
+    "classId": 33,
+    "studentId": 15,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.301Z",
+    "id": 199
+  },
+  {
+    "classId": 33,
+    "studentId": 16,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.302Z",
+    "id": 200
+  },
+  {
+    "classId": 33,
+    "studentId": 17,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.302Z",
+    "id": 201
+  },
+  {
+    "classId": 33,
+    "studentId": 18,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.303Z",
+    "id": 202
+  },
+  {
+    "classId": 33,
+    "studentId": 19,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.303Z",
+    "id": 203
+  },
+  {
+    "classId": 33,
+    "studentId": 20,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.304Z",
+    "id": 204
+  },
+  {
+    "classId": 33,
+    "studentId": 21,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.304Z",
+    "id": 205
+  },
+  {
+    "classId": 33,
+    "studentId": 22,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.305Z",
+    "id": 206
+  },
+  {
+    "classId": 33,
+    "studentId": 23,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.305Z",
+    "id": 207
+  },
+  {
+    "classId": 33,
+    "studentId": 24,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.306Z",
+    "id": 208
+  },
+  {
+    "classId": 33,
+    "studentId": 25,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.307Z",
+    "id": 209
+  },
+  {
+    "classId": 33,
+    "studentId": 26,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.310Z",
+    "id": 210
+  },
+  {
+    "classId": 33,
+    "studentId": 27,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.311Z",
+    "id": 211
+  },
+  {
+    "classId": 33,
+    "studentId": 28,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.312Z",
+    "id": 212
+  },
+  {
+    "classId": 33,
+    "studentId": 29,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.313Z",
+    "id": 213
+  },
+  {
+    "classId": 33,
+    "studentId": 30,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.314Z",
+    "id": 214
+  },
+  {
+    "classId": 33,
+    "studentId": 31,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.315Z",
+    "id": 215
+  },
+  {
+    "classId": 33,
+    "studentId": 32,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.315Z",
+    "id": 216
+  },
+  {
+    "classId": 33,
+    "studentId": 33,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.316Z",
+    "id": 217
+  },
+  {
+    "classId": 33,
+    "studentId": 34,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.317Z",
+    "id": 218
+  },
+  {
+    "classId": 33,
+    "studentId": 35,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.318Z",
+    "id": 219
+  },
+  {
+    "classId": 33,
+    "studentId": 36,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.319Z",
+    "id": 220
+  },
+  {
+    "classId": 33,
+    "studentId": 37,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.319Z",
+    "id": 221
+  },
+  {
+    "classId": 33,
+    "studentId": 38,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.320Z",
+    "id": 222
+  },
+  {
+    "classId": 33,
+    "studentId": 53,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:23.320Z",
+    "id": 223
+  },
+  {
+    "classId": 33,
+    "studentId": 54,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:23.321Z",
+    "id": 224
+  },
+  {
+    "classId": 33,
+    "studentId": 1,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 225
+  },
+  {
+    "classId": 33,
+    "studentId": 2,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 226
+  },
+  {
+    "classId": 33,
+    "studentId": 3,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 227
+  },
+  {
+    "classId": 33,
+    "studentId": 4,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 228
+  },
+  {
+    "classId": 33,
+    "studentId": 5,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 229
+  },
+  {
+    "classId": 33,
+    "studentId": 6,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 230
+  },
+  {
+    "classId": 33,
+    "studentId": 7,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 231
+  },
+  {
+    "classId": 33,
+    "studentId": 8,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 232
+  },
+  {
+    "classId": 33,
+    "studentId": 9,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 233
+  },
+  {
+    "classId": 33,
+    "studentId": 10,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 234
+  },
+  {
+    "classId": 33,
+    "studentId": 11,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 235
+  },
+  {
+    "classId": 33,
+    "studentId": 12,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 236
+  },
+  {
+    "classId": 33,
+    "studentId": 13,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 237
+  },
+  {
+    "classId": 33,
+    "studentId": 14,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 238
+  },
+  {
+    "classId": 33,
+    "studentId": 15,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 239
+  },
+  {
+    "classId": 33,
+    "studentId": 16,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 240
+  },
+  {
+    "classId": 33,
+    "studentId": 17,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 241
+  },
+  {
+    "classId": 33,
+    "studentId": 18,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 242
+  },
+  {
+    "classId": 33,
+    "studentId": 19,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 243
+  },
+  {
+    "classId": 33,
+    "studentId": 20,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 244
+  },
+  {
+    "classId": 33,
+    "studentId": 21,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 245
+  },
+  {
+    "classId": 33,
+    "studentId": 22,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 246
+  },
+  {
+    "classId": 33,
+    "studentId": 23,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 247
+  },
+  {
+    "classId": 33,
+    "studentId": 24,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 248
+  },
+  {
+    "classId": 33,
+    "studentId": 25,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 249
+  },
+  {
+    "classId": 33,
+    "studentId": 26,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 250
+  },
+  {
+    "classId": 33,
+    "studentId": 27,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 251
+  },
+  {
+    "classId": 33,
+    "studentId": 28,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 252
+  },
+  {
+    "classId": 33,
+    "studentId": 29,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 253
+  },
+  {
+    "classId": 33,
+    "studentId": 30,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 254
+  },
+  {
+    "classId": 33,
+    "studentId": 31,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 255
+  },
+  {
+    "classId": 33,
+    "studentId": 32,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 256
+  },
+  {
+    "classId": 33,
+    "studentId": 33,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 257
+  },
+  {
+    "classId": 33,
+    "studentId": 34,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 258
+  },
+  {
+    "classId": 33,
+    "studentId": 35,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 259
+  },
+  {
+    "classId": 33,
+    "studentId": 36,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 260
+  },
+  {
+    "classId": 33,
+    "studentId": 37,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 261
+  },
+  {
+    "classId": 33,
+    "studentId": 38,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 262
+  },
+  {
+    "classId": 33,
+    "studentId": 39,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 263
+  },
+  {
+    "classId": 33,
+    "studentId": 40,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 264
+  },
+  {
+    "classId": 33,
+    "studentId": 41,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 265
+  },
+  {
+    "classId": 33,
+    "studentId": 42,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 266
+  },
+  {
+    "classId": 33,
+    "studentId": 43,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 267
+  },
+  {
+    "classId": 33,
+    "studentId": 44,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 268
+  },
+  {
+    "classId": 33,
+    "studentId": 45,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 269
+  },
+  {
+    "classId": 33,
+    "studentId": 46,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 270
+  },
+  {
+    "classId": 33,
+    "studentId": 47,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 271
+  },
+  {
+    "classId": 33,
+    "studentId": 48,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 272
+  },
+  {
+    "classId": 33,
+    "studentId": 49,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 273
+  },
+  {
+    "classId": 33,
+    "studentId": 50,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 274
+  },
+  {
+    "classId": 33,
+    "studentId": 51,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 275
+  },
+  {
+    "classId": 33,
+    "studentId": 52,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 276
+  },
+  {
+    "classId": 33,
+    "studentId": 53,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 277
+  },
+  {
+    "classId": 33,
+    "studentId": 54,
+    "date": "2025-12-03",
+    "status": "present",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 278
+  },
+  {
+    "classId": 33,
+    "studentId": 55,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 279
+  },
+  {
+    "classId": 33,
+    "studentId": 56,
+    "date": "2025-12-03",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:17:26.066Z",
+    "id": 280
+  },
+  {
+    "classId": 33,
+    "studentId": 1,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.906Z",
+    "id": 281
+  },
+  {
+    "classId": 33,
+    "studentId": 2,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.906Z",
+    "id": 282
+  },
+  {
+    "classId": 33,
+    "studentId": 3,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.906Z",
+    "id": 283
+  },
+  {
+    "classId": 33,
+    "studentId": 4,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.906Z",
+    "id": 284
+  },
+  {
+    "classId": 33,
+    "studentId": 5,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.906Z",
+    "id": 285
+  },
+  {
+    "classId": 33,
+    "studentId": 6,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.906Z",
+    "id": 286
+  },
+  {
+    "classId": 33,
+    "studentId": 7,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.906Z",
+    "id": 287
+  },
+  {
+    "classId": 33,
+    "studentId": 8,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 288
+  },
+  {
+    "classId": 33,
+    "studentId": 9,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 289
+  },
+  {
+    "classId": 33,
+    "studentId": 10,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 290
+  },
+  {
+    "classId": 33,
+    "studentId": 11,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 291
+  },
+  {
+    "classId": 33,
+    "studentId": 12,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 292
+  },
+  {
+    "classId": 33,
+    "studentId": 13,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 293
+  },
+  {
+    "classId": 33,
+    "studentId": 14,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 294
+  },
+  {
+    "classId": 33,
+    "studentId": 15,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 295
+  },
+  {
+    "classId": 33,
+    "studentId": 16,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 296
+  },
+  {
+    "classId": 33,
+    "studentId": 17,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 297
+  },
+  {
+    "classId": 33,
+    "studentId": 18,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 298
+  },
+  {
+    "classId": 33,
+    "studentId": 19,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 299
+  },
+  {
+    "classId": 33,
+    "studentId": 20,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 300
+  },
+  {
+    "classId": 33,
+    "studentId": 21,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 301
+  },
+  {
+    "classId": 33,
+    "studentId": 22,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 302
+  },
+  {
+    "classId": 33,
+    "studentId": 23,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 303
+  },
+  {
+    "classId": 33,
+    "studentId": 24,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 304
+  },
+  {
+    "classId": 33,
+    "studentId": 25,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 305
+  },
+  {
+    "classId": 33,
+    "studentId": 26,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 306
+  },
+  {
+    "classId": 33,
+    "studentId": 27,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 307
+  },
+  {
+    "classId": 33,
+    "studentId": 28,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 308
+  },
+  {
+    "classId": 33,
+    "studentId": 29,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 309
+  },
+  {
+    "classId": 33,
+    "studentId": 30,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 310
+  },
+  {
+    "classId": 33,
+    "studentId": 31,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 311
+  },
+  {
+    "classId": 33,
+    "studentId": 32,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 312
+  },
+  {
+    "classId": 33,
+    "studentId": 33,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 313
+  },
+  {
+    "classId": 33,
+    "studentId": 34,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 314
+  },
+  {
+    "classId": 33,
+    "studentId": 35,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 315
+  },
+  {
+    "classId": 33,
+    "studentId": 36,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 316
+  },
+  {
+    "classId": 33,
+    "studentId": 37,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 317
+  },
+  {
+    "classId": 33,
+    "studentId": 38,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 318
+  },
+  {
+    "classId": 33,
+    "studentId": 53,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 319
+  },
+  {
+    "classId": 33,
+    "studentId": 54,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:26:27.908Z",
+    "id": 320
+  },
+  {
+    "classId": 33,
+    "studentId": 39,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 321
+  },
+  {
+    "classId": 33,
+    "studentId": 40,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 322
+  },
+  {
+    "classId": 33,
+    "studentId": 41,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 323
+  },
+  {
+    "classId": 33,
+    "studentId": 42,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 324
+  },
+  {
+    "classId": 33,
+    "studentId": 43,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 325
+  },
+  {
+    "classId": 33,
+    "studentId": 44,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 326
+  },
+  {
+    "classId": 33,
+    "studentId": 45,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 327
+  },
+  {
+    "classId": 33,
+    "studentId": 46,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 328
+  },
+  {
+    "classId": 33,
+    "studentId": 47,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 329
+  },
+  {
+    "classId": 33,
+    "studentId": 48,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 330
+  },
+  {
+    "classId": 33,
+    "studentId": 49,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 331
+  },
+  {
+    "classId": 33,
+    "studentId": 50,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 332
+  },
+  {
+    "classId": 33,
+    "studentId": 51,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 333
+  },
+  {
+    "classId": 33,
+    "studentId": 52,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.907Z",
+    "id": 334
+  },
+  {
+    "classId": 33,
+    "studentId": 55,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.908Z",
+    "id": 335
+  },
+  {
+    "classId": 33,
+    "studentId": 56,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:26:27.908Z",
+    "id": 336
+  },
+  {
+    "classId": 31,
+    "studentId": 1,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 337
+  },
+  {
+    "classId": 31,
+    "studentId": 2,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 338
+  },
+  {
+    "classId": 31,
+    "studentId": 3,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 339
+  },
+  {
+    "classId": 31,
+    "studentId": 4,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 340
+  },
+  {
+    "classId": 31,
+    "studentId": 5,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 341
+  },
+  {
+    "classId": 31,
+    "studentId": 6,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 342
+  },
+  {
+    "classId": 31,
+    "studentId": 7,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 343
+  },
+  {
+    "classId": 31,
+    "studentId": 8,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 344
+  },
+  {
+    "classId": 31,
+    "studentId": 9,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 345
+  },
+  {
+    "classId": 31,
+    "studentId": 10,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 346
+  },
+  {
+    "classId": 31,
+    "studentId": 11,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 347
+  },
+  {
+    "classId": 31,
+    "studentId": 12,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 348
+  },
+  {
+    "classId": 31,
+    "studentId": 13,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 349
+  },
+  {
+    "classId": 31,
+    "studentId": 14,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 350
+  },
+  {
+    "classId": 31,
+    "studentId": 15,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 351
+  },
+  {
+    "classId": 31,
+    "studentId": 16,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 352
+  },
+  {
+    "classId": 31,
+    "studentId": 17,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 353
+  },
+  {
+    "classId": 31,
+    "studentId": 18,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 354
+  },
+  {
+    "classId": 31,
+    "studentId": 19,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.355Z",
+    "id": 355
+  },
+  {
+    "classId": 31,
+    "studentId": 20,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 356
+  },
+  {
+    "classId": 31,
+    "studentId": 21,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 357
+  },
+  {
+    "classId": 31,
+    "studentId": 22,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 358
+  },
+  {
+    "classId": 31,
+    "studentId": 23,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 359
+  },
+  {
+    "classId": 31,
+    "studentId": 24,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 360
+  },
+  {
+    "classId": 31,
+    "studentId": 25,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 361
+  },
+  {
+    "classId": 31,
+    "studentId": 26,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 362
+  },
+  {
+    "classId": 31,
+    "studentId": 27,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 363
+  },
+  {
+    "classId": 31,
+    "studentId": 28,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 364
+  },
+  {
+    "classId": 31,
+    "studentId": 29,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 365
+  },
+  {
+    "classId": 31,
+    "studentId": 30,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 366
+  },
+  {
+    "classId": 31,
+    "studentId": 31,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 367
+  },
+  {
+    "classId": 31,
+    "studentId": 32,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 368
+  },
+  {
+    "classId": 31,
+    "studentId": 33,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 369
+  },
+  {
+    "classId": 31,
+    "studentId": 34,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 370
+  },
+  {
+    "classId": 31,
+    "studentId": 35,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 371
+  },
+  {
+    "classId": 31,
+    "studentId": 36,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 372
+  },
+  {
+    "classId": 31,
+    "studentId": 37,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 373
+  },
+  {
+    "classId": 31,
+    "studentId": 38,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 374
+  },
+  {
+    "classId": 31,
+    "studentId": 53,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 375
+  },
+  {
+    "classId": 31,
+    "studentId": 54,
+    "date": "2025-08-28",
+    "status": "present",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 376
+  },
+  {
+    "classId": 31,
+    "studentId": 39,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 377
+  },
+  {
+    "classId": 31,
+    "studentId": 40,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 378
+  },
+  {
+    "classId": 31,
+    "studentId": 41,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 379
+  },
+  {
+    "classId": 31,
+    "studentId": 42,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 380
+  },
+  {
+    "classId": 31,
+    "studentId": 43,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 381
+  },
+  {
+    "classId": 31,
+    "studentId": 44,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 382
+  },
+  {
+    "classId": 31,
+    "studentId": 45,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 383
+  },
+  {
+    "classId": 31,
+    "studentId": 46,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 384
+  },
+  {
+    "classId": 31,
+    "studentId": 47,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 385
+  },
+  {
+    "classId": 31,
+    "studentId": 48,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 386
+  },
+  {
+    "classId": 31,
+    "studentId": 49,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 387
+  },
+  {
+    "classId": 31,
+    "studentId": 50,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 388
+  },
+  {
+    "classId": 31,
+    "studentId": 51,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 389
+  },
+  {
+    "classId": 31,
+    "studentId": 52,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 390
+  },
+  {
+    "classId": 31,
+    "studentId": 55,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 391
+  },
+  {
+    "classId": 31,
+    "studentId": 56,
+    "date": "2025-08-28",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:28:04.356Z",
+    "id": 392
+  },
+  {
+    "classId": 33,
+    "studentId": 1,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.356Z",
+    "id": 393
+  },
+  {
+    "classId": 33,
+    "studentId": 2,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.359Z",
+    "id": 394
+  },
+  {
+    "classId": 33,
+    "studentId": 3,
+    "date": "2025-08-25",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:08.360Z",
+    "id": 395
+  },
+  {
+    "classId": 33,
+    "studentId": 4,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.361Z",
+    "id": 396
+  },
+  {
+    "classId": 33,
+    "studentId": 5,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.361Z",
+    "id": 397
+  },
+  {
+    "classId": 33,
+    "studentId": 6,
+    "date": "2025-08-25",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:08.362Z",
+    "id": 398
+  },
+  {
+    "classId": 33,
+    "studentId": 7,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.365Z",
+    "id": 399
+  },
+  {
+    "classId": 33,
+    "studentId": 8,
+    "date": "2025-08-25",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:08.367Z",
+    "id": 400
+  },
+  {
+    "classId": 33,
+    "studentId": 9,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.369Z",
+    "id": 401
+  },
+  {
+    "classId": 33,
+    "studentId": 10,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.371Z",
+    "id": 402
+  },
+  {
+    "classId": 33,
+    "studentId": 11,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.371Z",
+    "id": 403
+  },
+  {
+    "classId": 33,
+    "studentId": 12,
+    "date": "2025-08-25",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:08.372Z",
+    "id": 404
+  },
+  {
+    "classId": 33,
+    "studentId": 13,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.372Z",
+    "id": 405
+  },
+  {
+    "classId": 33,
+    "studentId": 14,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.372Z",
+    "id": 406
+  },
+  {
+    "classId": 33,
+    "studentId": 15,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.373Z",
+    "id": 407
+  },
+  {
+    "classId": 33,
+    "studentId": 16,
+    "date": "2025-08-25",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:08.373Z",
+    "id": 408
+  },
+  {
+    "classId": 33,
+    "studentId": 17,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.373Z",
+    "id": 409
+  },
+  {
+    "classId": 33,
+    "studentId": 18,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.374Z",
+    "id": 410
+  },
+  {
+    "classId": 33,
+    "studentId": 19,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.375Z",
+    "id": 411
+  },
+  {
+    "classId": 33,
+    "studentId": 20,
+    "date": "2025-08-25",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:08.376Z",
+    "id": 412
+  },
+  {
+    "classId": 33,
+    "studentId": 21,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.377Z",
+    "id": 413
+  },
+  {
+    "classId": 33,
+    "studentId": 22,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.377Z",
+    "id": 414
+  },
+  {
+    "classId": 33,
+    "studentId": 23,
+    "date": "2025-08-25",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:08.377Z",
+    "id": 415
+  },
+  {
+    "classId": 33,
+    "studentId": 24,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.378Z",
+    "id": 416
+  },
+  {
+    "classId": 33,
+    "studentId": 25,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.378Z",
+    "id": 417
+  },
+  {
+    "classId": 33,
+    "studentId": 26,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.378Z",
+    "id": 418
+  },
+  {
+    "classId": 33,
+    "studentId": 27,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.378Z",
+    "id": 419
+  },
+  {
+    "classId": 33,
+    "studentId": 28,
+    "date": "2025-08-25",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:08.382Z",
+    "id": 420
+  },
+  {
+    "classId": 33,
+    "studentId": 29,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.384Z",
+    "id": 421
+  },
+  {
+    "classId": 33,
+    "studentId": 30,
+    "date": "2025-08-25",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:08.386Z",
+    "id": 422
+  },
+  {
+    "classId": 33,
+    "studentId": 31,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.388Z",
+    "id": 423
+  },
+  {
+    "classId": 33,
+    "studentId": 32,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.389Z",
+    "id": 424
+  },
+  {
+    "classId": 33,
+    "studentId": 33,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.389Z",
+    "id": 425
+  },
+  {
+    "classId": 33,
+    "studentId": 34,
+    "date": "2025-08-25",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:08.390Z",
+    "id": 426
+  },
+  {
+    "classId": 33,
+    "studentId": 35,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.390Z",
+    "id": 427
+  },
+  {
+    "classId": 33,
+    "studentId": 36,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.392Z",
+    "id": 428
+  },
+  {
+    "classId": 33,
+    "studentId": 37,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.394Z",
+    "id": 429
+  },
+  {
+    "classId": 33,
+    "studentId": 38,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.394Z",
+    "id": 430
+  },
+  {
+    "classId": 33,
+    "studentId": 53,
+    "date": "2025-08-25",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:08.395Z",
+    "id": 431
+  },
+  {
+    "classId": 33,
+    "studentId": 54,
+    "date": "2025-08-25",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:08.399Z",
+    "id": 432
+  },
+  {
+    "classId": 33,
+    "studentId": 1,
+    "date": "2025-08-26",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:41.258Z",
+    "id": 433
+  },
+  {
+    "classId": 33,
+    "studentId": 2,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.259Z",
+    "id": 434
+  },
+  {
+    "classId": 33,
+    "studentId": 3,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.260Z",
+    "id": 435
+  },
+  {
+    "classId": 33,
+    "studentId": 4,
+    "date": "2025-08-26",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:41.261Z",
+    "id": 436
+  },
+  {
+    "classId": 33,
+    "studentId": 5,
+    "date": "2025-08-26",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:41.261Z",
+    "id": 437
+  },
+  {
+    "classId": 33,
+    "studentId": 6,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.262Z",
+    "id": 438
+  },
+  {
+    "classId": 33,
+    "studentId": 7,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.266Z",
+    "id": 439
+  },
+  {
+    "classId": 33,
+    "studentId": 8,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.267Z",
+    "id": 440
+  },
+  {
+    "classId": 33,
+    "studentId": 9,
+    "date": "2025-08-26",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:41.269Z",
+    "id": 441
+  },
+  {
+    "classId": 33,
+    "studentId": 10,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.271Z",
+    "id": 442
+  },
+  {
+    "classId": 33,
+    "studentId": 11,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.271Z",
+    "id": 443
+  },
+  {
+    "classId": 33,
+    "studentId": 12,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.272Z",
+    "id": 444
+  },
+  {
+    "classId": 33,
+    "studentId": 13,
+    "date": "2025-08-26",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:41.272Z",
+    "id": 445
+  },
+  {
+    "classId": 33,
+    "studentId": 14,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.272Z",
+    "id": 446
+  },
+  {
+    "classId": 33,
+    "studentId": 15,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.273Z",
+    "id": 447
+  },
+  {
+    "classId": 33,
+    "studentId": 16,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.273Z",
+    "id": 448
+  },
+  {
+    "classId": 33,
+    "studentId": 17,
+    "date": "2025-08-26",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:41.274Z",
+    "id": 449
+  },
+  {
+    "classId": 33,
+    "studentId": 18,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.275Z",
+    "id": 450
+  },
+  {
+    "classId": 33,
+    "studentId": 19,
+    "date": "2025-08-26",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:41.276Z",
+    "id": 451
+  },
+  {
+    "classId": 33,
+    "studentId": 20,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.276Z",
+    "id": 452
+  },
+  {
+    "classId": 33,
+    "studentId": 21,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.277Z",
+    "id": 453
+  },
+  {
+    "classId": 33,
+    "studentId": 22,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.277Z",
+    "id": 454
+  },
+  {
+    "classId": 33,
+    "studentId": 23,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.277Z",
+    "id": 455
+  },
+  {
+    "classId": 33,
+    "studentId": 24,
+    "date": "2025-08-26",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:41.277Z",
+    "id": 456
+  },
+  {
+    "classId": 33,
+    "studentId": 25,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.278Z",
+    "id": 457
+  },
+  {
+    "classId": 33,
+    "studentId": 26,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.278Z",
+    "id": 458
+  },
+  {
+    "classId": 33,
+    "studentId": 27,
+    "date": "2025-08-26",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:41.282Z",
+    "id": 459
+  },
+  {
+    "classId": 33,
+    "studentId": 28,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.283Z",
+    "id": 460
+  },
+  {
+    "classId": 33,
+    "studentId": 29,
+    "date": "2025-08-26",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:41.285Z",
+    "id": 461
+  },
+  {
+    "classId": 33,
+    "studentId": 30,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.286Z",
+    "id": 462
+  },
+  {
+    "classId": 33,
+    "studentId": 31,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.287Z",
+    "id": 463
+  },
+  {
+    "classId": 33,
+    "studentId": 32,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.287Z",
+    "id": 464
+  },
+  {
+    "classId": 33,
+    "studentId": 33,
+    "date": "2025-08-26",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:41.288Z",
+    "id": 465
+  },
+  {
+    "classId": 33,
+    "studentId": 34,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.288Z",
+    "id": 466
+  },
+  {
+    "classId": 33,
+    "studentId": 35,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.289Z",
+    "id": 467
+  },
+  {
+    "classId": 33,
+    "studentId": 36,
+    "date": "2025-08-26",
+    "status": "absent",
+    "createdAt": "2025-12-03T18:40:41.289Z",
+    "id": 468
+  },
+  {
+    "classId": 33,
+    "studentId": 37,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.289Z",
+    "id": 469
+  },
+  {
+    "classId": 33,
+    "studentId": 38,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.289Z",
+    "id": 470
+  },
+  {
+    "classId": 33,
+    "studentId": 53,
+    "date": "2025-08-26",
+    "status": "present",
+    "createdAt": "2025-12-03T18:40:41.291Z",
+    "id": 471
+  },
+  {
+    "classId": 33,
+    "studentId": 54,
+    "date": "2025-08-26",
+    "status": "late",
+    "createdAt": "2025-12-03T18:40:41.292Z",
+    "id": 472
+  },
+  {
+    "classId": 20,
+    "studentId": 349,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 473
+  },
+  {
+    "classId": 20,
+    "studentId": 350,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 474
+  },
+  {
+    "classId": 20,
+    "studentId": 351,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 475
+  },
+  {
+    "classId": 20,
+    "studentId": 352,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 476
+  },
+  {
+    "classId": 20,
+    "studentId": 353,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 477
+  },
+  {
+    "classId": 20,
+    "studentId": 354,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 478
+  },
+  {
+    "classId": 20,
+    "studentId": 355,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 479
+  },
+  {
+    "classId": 20,
+    "studentId": 356,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 480
+  },
+  {
+    "classId": 20,
+    "studentId": 357,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 481
+  },
+  {
+    "classId": 20,
+    "studentId": 358,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 482
+  },
+  {
+    "classId": 20,
+    "studentId": 359,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 483
+  },
+  {
+    "classId": 20,
+    "studentId": 360,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 484
+  },
+  {
+    "classId": 20,
+    "studentId": 361,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 485
+  },
+  {
+    "classId": 20,
+    "studentId": 362,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 486
+  },
+  {
+    "classId": 20,
+    "studentId": 363,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 487
+  },
+  {
+    "classId": 20,
+    "studentId": 364,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 488
+  },
+  {
+    "classId": 20,
+    "studentId": 365,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 489
+  },
+  {
+    "classId": 20,
+    "studentId": 366,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.981Z",
+    "id": 490
+  },
+  {
+    "classId": 20,
+    "studentId": 367,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 491
+  },
+  {
+    "classId": 20,
+    "studentId": 368,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 492
+  },
+  {
+    "classId": 20,
+    "studentId": 369,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 493
+  },
+  {
+    "classId": 20,
+    "studentId": 370,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 494
+  },
+  {
+    "classId": 20,
+    "studentId": 371,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 495
+  },
+  {
+    "classId": 20,
+    "studentId": 372,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 496
+  },
+  {
+    "classId": 20,
+    "studentId": 373,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 497
+  },
+  {
+    "classId": 20,
+    "studentId": 374,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 498
+  },
+  {
+    "classId": 20,
+    "studentId": 375,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 499
+  },
+  {
+    "classId": 20,
+    "studentId": 376,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 500
+  },
+  {
+    "classId": 20,
+    "studentId": 377,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 501
+  },
+  {
+    "classId": 20,
+    "studentId": 378,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 502
+  },
+  {
+    "classId": 20,
+    "studentId": 379,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 503
+  },
+  {
+    "classId": 20,
+    "studentId": 380,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 504
+  },
+  {
+    "classId": 20,
+    "studentId": 381,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 505
+  },
+  {
+    "classId": 20,
+    "studentId": 382,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:20:45.982Z",
+    "id": 506
+  },
+  {
+    "classId": 35,
+    "studentId": 1,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 507
+  },
+  {
+    "classId": 35,
+    "studentId": 2,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 508
+  },
+  {
+    "classId": 35,
+    "studentId": 3,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 509
+  },
+  {
+    "classId": 35,
+    "studentId": 4,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 510
+  },
+  {
+    "classId": 35,
+    "studentId": 5,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 511
+  },
+  {
+    "classId": 35,
+    "studentId": 6,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 512
+  },
+  {
+    "classId": 35,
+    "studentId": 7,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 513
+  },
+  {
+    "classId": 35,
+    "studentId": 8,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 514
+  },
+  {
+    "classId": 35,
+    "studentId": 9,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 515
+  },
+  {
+    "classId": 35,
+    "studentId": 10,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.898Z",
+    "id": 516
+  },
+  {
+    "classId": 35,
+    "studentId": 11,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 517
+  },
+  {
+    "classId": 35,
+    "studentId": 12,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 518
+  },
+  {
+    "classId": 35,
+    "studentId": 13,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 519
+  },
+  {
+    "classId": 35,
+    "studentId": 14,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 520
+  },
+  {
+    "classId": 35,
+    "studentId": 15,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 521
+  },
+  {
+    "classId": 35,
+    "studentId": 16,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 522
+  },
+  {
+    "classId": 35,
+    "studentId": 17,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 523
+  },
+  {
+    "classId": 35,
+    "studentId": 18,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 524
+  },
+  {
+    "classId": 35,
+    "studentId": 19,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 525
+  },
+  {
+    "classId": 35,
+    "studentId": 20,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 526
+  },
+  {
+    "classId": 35,
+    "studentId": 21,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 527
+  },
+  {
+    "classId": 35,
+    "studentId": 22,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 528
+  },
+  {
+    "classId": 35,
+    "studentId": 23,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 529
+  },
+  {
+    "classId": 35,
+    "studentId": 24,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 530
+  },
+  {
+    "classId": 35,
+    "studentId": 25,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 531
+  },
+  {
+    "classId": 35,
+    "studentId": 26,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 532
+  },
+  {
+    "classId": 35,
+    "studentId": 27,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 533
+  },
+  {
+    "classId": 35,
+    "studentId": 28,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 534
+  },
+  {
+    "classId": 35,
+    "studentId": 29,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 535
+  },
+  {
+    "classId": 35,
+    "studentId": 30,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 536
+  },
+  {
+    "classId": 35,
+    "studentId": 31,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.899Z",
+    "id": 537
+  },
+  {
+    "classId": 35,
+    "studentId": 32,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 538
+  },
+  {
+    "classId": 35,
+    "studentId": 33,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 539
+  },
+  {
+    "classId": 35,
+    "studentId": 34,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 540
+  },
+  {
+    "classId": 35,
+    "studentId": 35,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 541
+  },
+  {
+    "classId": 35,
+    "studentId": 36,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 542
+  },
+  {
+    "classId": 35,
+    "studentId": 37,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 543
+  },
+  {
+    "classId": 35,
+    "studentId": 38,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 544
+  },
+  {
+    "classId": 35,
+    "studentId": 53,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 545
+  },
+  {
+    "classId": 35,
+    "studentId": 54,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 546
+  },
+  {
+    "classId": 35,
+    "studentId": 39,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 547
+  },
+  {
+    "classId": 35,
+    "studentId": 40,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 548
+  },
+  {
+    "classId": 35,
+    "studentId": 41,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 549
+  },
+  {
+    "classId": 35,
+    "studentId": 42,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 550
+  },
+  {
+    "classId": 35,
+    "studentId": 43,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 551
+  },
+  {
+    "classId": 35,
+    "studentId": 44,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 552
+  },
+  {
+    "classId": 35,
+    "studentId": 45,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 553
+  },
+  {
+    "classId": 35,
+    "studentId": 46,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 554
+  },
+  {
+    "classId": 35,
+    "studentId": 47,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 555
+  },
+  {
+    "classId": 35,
+    "studentId": 48,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 556
+  },
+  {
+    "classId": 35,
+    "studentId": 49,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 557
+  },
+  {
+    "classId": 35,
+    "studentId": 50,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 558
+  },
+  {
+    "classId": 35,
+    "studentId": 51,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 559
+  },
+  {
+    "classId": 35,
+    "studentId": 52,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 560
+  },
+  {
+    "classId": 35,
+    "studentId": 55,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 561
+  },
+  {
+    "classId": 35,
+    "studentId": 56,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:21:20.900Z",
+    "id": 562
+  },
+  {
+    "classId": 36,
+    "studentId": 1,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 563
+  },
+  {
+    "classId": 36,
+    "studentId": 2,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 564
+  },
+  {
+    "classId": 36,
+    "studentId": 3,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 565
+  },
+  {
+    "classId": 36,
+    "studentId": 4,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 566
+  },
+  {
+    "classId": 36,
+    "studentId": 5,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 567
+  },
+  {
+    "classId": 36,
+    "studentId": 6,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 568
+  },
+  {
+    "classId": 36,
+    "studentId": 7,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 569
+  },
+  {
+    "classId": 36,
+    "studentId": 8,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 570
+  },
+  {
+    "classId": 36,
+    "studentId": 9,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 571
+  },
+  {
+    "classId": 36,
+    "studentId": 10,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 572
+  },
+  {
+    "classId": 36,
+    "studentId": 11,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 573
+  },
+  {
+    "classId": 36,
+    "studentId": 12,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 574
+  },
+  {
+    "classId": 36,
+    "studentId": 13,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 575
+  },
+  {
+    "classId": 36,
+    "studentId": 14,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 576
+  },
+  {
+    "classId": 36,
+    "studentId": 15,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 577
+  },
+  {
+    "classId": 36,
+    "studentId": 16,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 578
+  },
+  {
+    "classId": 36,
+    "studentId": 17,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 579
+  },
+  {
+    "classId": 36,
+    "studentId": 18,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 580
+  },
+  {
+    "classId": 36,
+    "studentId": 19,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 581
+  },
+  {
+    "classId": 36,
+    "studentId": 20,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 582
+  },
+  {
+    "classId": 36,
+    "studentId": 21,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.784Z",
+    "id": 583
+  },
+  {
+    "classId": 36,
+    "studentId": 22,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 584
+  },
+  {
+    "classId": 36,
+    "studentId": 23,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 585
+  },
+  {
+    "classId": 36,
+    "studentId": 24,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 586
+  },
+  {
+    "classId": 36,
+    "studentId": 25,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 587
+  },
+  {
+    "classId": 36,
+    "studentId": 26,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 588
+  },
+  {
+    "classId": 36,
+    "studentId": 27,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 589
+  },
+  {
+    "classId": 36,
+    "studentId": 28,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 590
+  },
+  {
+    "classId": 36,
+    "studentId": 29,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 591
+  },
+  {
+    "classId": 36,
+    "studentId": 30,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 592
+  },
+  {
+    "classId": 36,
+    "studentId": 31,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 593
+  },
+  {
+    "classId": 36,
+    "studentId": 32,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 594
+  },
+  {
+    "classId": 36,
+    "studentId": 33,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 595
+  },
+  {
+    "classId": 36,
+    "studentId": 34,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 596
+  },
+  {
+    "classId": 36,
+    "studentId": 35,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 597
+  },
+  {
+    "classId": 36,
+    "studentId": 36,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 598
+  },
+  {
+    "classId": 36,
+    "studentId": 37,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 599
+  },
+  {
+    "classId": 36,
+    "studentId": 38,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 600
+  },
+  {
+    "classId": 36,
+    "studentId": 39,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 601
+  },
+  {
+    "classId": 36,
+    "studentId": 40,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 602
+  },
+  {
+    "classId": 36,
+    "studentId": 41,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 603
+  },
+  {
+    "classId": 36,
+    "studentId": 42,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 604
+  },
+  {
+    "classId": 36,
+    "studentId": 43,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 605
+  },
+  {
+    "classId": 36,
+    "studentId": 44,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 606
+  },
+  {
+    "classId": 36,
+    "studentId": 45,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 607
+  },
+  {
+    "classId": 36,
+    "studentId": 46,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 608
+  },
+  {
+    "classId": 36,
+    "studentId": 47,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 609
+  },
+  {
+    "classId": 36,
+    "studentId": 48,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 610
+  },
+  {
+    "classId": 36,
+    "studentId": 49,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 611
+  },
+  {
+    "classId": 36,
+    "studentId": 50,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 612
+  },
+  {
+    "classId": 36,
+    "studentId": 51,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 613
+  },
+  {
+    "classId": 36,
+    "studentId": 52,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 614
+  },
+  {
+    "classId": 36,
+    "studentId": 53,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 615
+  },
+  {
+    "classId": 36,
+    "studentId": 54,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 616
+  },
+  {
+    "classId": 36,
+    "studentId": 55,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 617
+  },
+  {
+    "classId": 36,
+    "studentId": 56,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T07:27:18.785Z",
+    "id": 618
+  },
+  {
+    "classId": 31,
+    "studentId": 1,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 619
+  },
+  {
+    "classId": 31,
+    "studentId": 2,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 620
+  },
+  {
+    "classId": 31,
+    "studentId": 3,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 621
+  },
+  {
+    "classId": 31,
+    "studentId": 4,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 622
+  },
+  {
+    "classId": 31,
+    "studentId": 5,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 623
+  },
+  {
+    "classId": 31,
+    "studentId": 6,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 624
+  },
+  {
+    "classId": 31,
+    "studentId": 7,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 625
+  },
+  {
+    "classId": 31,
+    "studentId": 8,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 626
+  },
+  {
+    "classId": 31,
+    "studentId": 9,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 627
+  },
+  {
+    "classId": 31,
+    "studentId": 10,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 628
+  },
+  {
+    "classId": 31,
+    "studentId": 11,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 629
+  },
+  {
+    "classId": 31,
+    "studentId": 12,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.193Z",
+    "id": 630
+  },
+  {
+    "classId": 31,
+    "studentId": 13,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 631
+  },
+  {
+    "classId": 31,
+    "studentId": 14,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 632
+  },
+  {
+    "classId": 31,
+    "studentId": 15,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 633
+  },
+  {
+    "classId": 31,
+    "studentId": 16,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 634
+  },
+  {
+    "classId": 31,
+    "studentId": 17,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 635
+  },
+  {
+    "classId": 31,
+    "studentId": 18,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 636
+  },
+  {
+    "classId": 31,
+    "studentId": 19,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 637
+  },
+  {
+    "classId": 31,
+    "studentId": 20,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 638
+  },
+  {
+    "classId": 31,
+    "studentId": 21,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 639
+  },
+  {
+    "classId": 31,
+    "studentId": 22,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 640
+  },
+  {
+    "classId": 31,
+    "studentId": 23,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 641
+  },
+  {
+    "classId": 31,
+    "studentId": 24,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 642
+  },
+  {
+    "classId": 31,
+    "studentId": 25,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 643
+  },
+  {
+    "classId": 31,
+    "studentId": 26,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 644
+  },
+  {
+    "classId": 31,
+    "studentId": 27,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 645
+  },
+  {
+    "classId": 31,
+    "studentId": 28,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 646
+  },
+  {
+    "classId": 31,
+    "studentId": 29,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 647
+  },
+  {
+    "classId": 31,
+    "studentId": 30,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 648
+  },
+  {
+    "classId": 31,
+    "studentId": 31,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 649
+  },
+  {
+    "classId": 31,
+    "studentId": 32,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 650
+  },
+  {
+    "classId": 31,
+    "studentId": 33,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 651
+  },
+  {
+    "classId": 31,
+    "studentId": 34,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 652
+  },
+  {
+    "classId": 31,
+    "studentId": 35,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 653
+  },
+  {
+    "classId": 31,
+    "studentId": 36,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 654
+  },
+  {
+    "classId": 31,
+    "studentId": 37,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 655
+  },
+  {
+    "classId": 31,
+    "studentId": 38,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 656
+  },
+  {
+    "classId": 31,
+    "studentId": 39,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 657
+  },
+  {
+    "classId": 31,
+    "studentId": 40,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 658
+  },
+  {
+    "classId": 31,
+    "studentId": 41,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 659
+  },
+  {
+    "classId": 31,
+    "studentId": 42,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 660
+  },
+  {
+    "classId": 31,
+    "studentId": 43,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 661
+  },
+  {
+    "classId": 31,
+    "studentId": 44,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 662
+  },
+  {
+    "classId": 31,
+    "studentId": 45,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 663
+  },
+  {
+    "classId": 31,
+    "studentId": 46,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 664
+  },
+  {
+    "classId": 31,
+    "studentId": 47,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 665
+  },
+  {
+    "classId": 31,
+    "studentId": 48,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 666
+  },
+  {
+    "classId": 31,
+    "studentId": 49,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 667
+  },
+  {
+    "classId": 31,
+    "studentId": 50,
+    "date": "2025-12-04",
+    "status": "present",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 668
+  },
+  {
+    "classId": 31,
+    "studentId": 51,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 669
+  },
+  {
+    "classId": 31,
+    "studentId": 52,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 670
+  },
+  {
+    "classId": 31,
+    "studentId": 53,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 671
+  },
+  {
+    "classId": 31,
+    "studentId": 54,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 672
+  },
+  {
+    "classId": 31,
+    "studentId": 55,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 673
+  },
+  {
+    "classId": 31,
+    "studentId": 56,
+    "date": "2025-12-04",
+    "status": "absent",
+    "createdAt": "2025-12-04T12:29:07.194Z",
+    "id": 674
+  },
+  {
+    "classId": 43,
+    "studentId": 1798,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.706Z",
+    "id": 675
+  },
+  {
+    "classId": 43,
+    "studentId": 1799,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 676
+  },
+  {
+    "classId": 43,
+    "studentId": 1800,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 677
+  },
+  {
+    "classId": 43,
+    "studentId": 1801,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 678
+  },
+  {
+    "classId": 43,
+    "studentId": 1802,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 679
+  },
+  {
+    "classId": 43,
+    "studentId": 1803,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 680
+  },
+  {
+    "classId": 43,
+    "studentId": 1804,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 681
+  },
+  {
+    "classId": 43,
+    "studentId": 1805,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 682
+  },
+  {
+    "classId": 43,
+    "studentId": 1806,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 683
+  },
+  {
+    "classId": 43,
+    "studentId": 1807,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 684
+  },
+  {
+    "classId": 43,
+    "studentId": 1808,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 685
+  },
+  {
+    "classId": 43,
+    "studentId": 1809,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 686
+  },
+  {
+    "classId": 43,
+    "studentId": 1810,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 687
+  },
+  {
+    "classId": 43,
+    "studentId": 1811,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 688
+  },
+  {
+    "classId": 43,
+    "studentId": 1812,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 689
+  },
+  {
+    "classId": 43,
+    "studentId": 1813,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 690
+  },
+  {
+    "classId": 43,
+    "studentId": 1814,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 691
+  },
+  {
+    "classId": 43,
+    "studentId": 1815,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 692
+  },
+  {
+    "classId": 43,
+    "studentId": 1816,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 693
+  },
+  {
+    "classId": 43,
+    "studentId": 1817,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 694
+  },
+  {
+    "classId": 43,
+    "studentId": 1818,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 695
+  },
+  {
+    "classId": 43,
+    "studentId": 1819,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 696
+  },
+  {
+    "classId": 43,
+    "studentId": 1820,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 697
+  },
+  {
+    "classId": 43,
+    "studentId": 1821,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 698
+  },
+  {
+    "classId": 43,
+    "studentId": 1822,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 699
+  },
+  {
+    "classId": 43,
+    "studentId": 1823,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 700
+  },
+  {
+    "classId": 43,
+    "studentId": 1824,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 701
+  },
+  {
+    "classId": 43,
+    "studentId": 1825,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 702
+  },
+  {
+    "classId": 43,
+    "studentId": 1826,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 703
+  },
+  {
+    "classId": 43,
+    "studentId": 1827,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 704
+  },
+  {
+    "classId": 43,
+    "studentId": 1828,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 705
+  },
+  {
+    "classId": 43,
+    "studentId": 1829,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 706
+  },
+  {
+    "classId": 43,
+    "studentId": 1830,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 707
+  },
+  {
+    "classId": 43,
+    "studentId": 1831,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 708
+  },
+  {
+    "classId": 43,
+    "studentId": 1832,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 709
+  },
+  {
+    "classId": 43,
+    "studentId": 1833,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 710
+  },
+  {
+    "classId": 43,
+    "studentId": 1834,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 711
+  },
+  {
+    "classId": 43,
+    "studentId": 1835,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 712
+  },
+  {
+    "classId": 43,
+    "studentId": 1850,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.708Z",
+    "id": 713
+  },
+  {
+    "classId": 43,
+    "studentId": 1851,
+    "date": "2025-12-10",
+    "status": "present",
+    "createdAt": "2025-12-10T16:05:03.708Z",
+    "id": 714
+  },
+  {
+    "classId": 43,
+    "studentId": 1836,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 715
+  },
+  {
+    "classId": 43,
+    "studentId": 1837,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 716
+  },
+  {
+    "classId": 43,
+    "studentId": 1838,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 717
+  },
+  {
+    "classId": 43,
+    "studentId": 1839,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 718
+  },
+  {
+    "classId": 43,
+    "studentId": 1840,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 719
+  },
+  {
+    "classId": 43,
+    "studentId": 1841,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 720
+  },
+  {
+    "classId": 43,
+    "studentId": 1842,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 721
+  },
+  {
+    "classId": 43,
+    "studentId": 1843,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 722
+  },
+  {
+    "classId": 43,
+    "studentId": 1844,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 723
+  },
+  {
+    "classId": 43,
+    "studentId": 1845,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.707Z",
+    "id": 724
+  },
+  {
+    "classId": 43,
+    "studentId": 1846,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.708Z",
+    "id": 725
+  },
+  {
+    "classId": 43,
+    "studentId": 1847,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.708Z",
+    "id": 726
+  },
+  {
+    "classId": 43,
+    "studentId": 1848,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.708Z",
+    "id": 727
+  },
+  {
+    "classId": 43,
+    "studentId": 1849,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.708Z",
+    "id": 728
+  },
+  {
+    "classId": 43,
+    "studentId": 1852,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.708Z",
+    "id": 729
+  },
+  {
+    "classId": 43,
+    "studentId": 1853,
+    "date": "2025-12-10",
+    "status": "absent",
+    "createdAt": "2025-12-10T16:05:03.708Z",
+    "id": 730
+  },
+  {
+    "classId": 43,
+    "studentId": 1798,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.736Z",
+    "id": 731
+  },
+  {
+    "classId": 43,
+    "studentId": 1799,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 732
+  },
+  {
+    "classId": 43,
+    "studentId": 1800,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 733
+  },
+  {
+    "classId": 43,
+    "studentId": 1801,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 734
+  },
+  {
+    "classId": 43,
+    "studentId": 1802,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 735
+  },
+  {
+    "classId": 43,
+    "studentId": 1803,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 736
+  },
+  {
+    "classId": 43,
+    "studentId": 1804,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 737
+  },
+  {
+    "classId": 43,
+    "studentId": 1805,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 738
+  },
+  {
+    "classId": 43,
+    "studentId": 1806,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 739
+  },
+  {
+    "classId": 43,
+    "studentId": 1807,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 740
+  },
+  {
+    "classId": 43,
+    "studentId": 1808,
+    "date": "2025-12-11",
+    "status": "absent",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 741
+  },
+  {
+    "classId": 43,
+    "studentId": 1809,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 742
+  },
+  {
+    "classId": 43,
+    "studentId": 1810,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 743
+  },
+  {
+    "classId": 43,
+    "studentId": 1811,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 744
+  },
+  {
+    "classId": 43,
+    "studentId": 1812,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 745
+  },
+  {
+    "classId": 43,
+    "studentId": 1813,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 746
+  },
+  {
+    "classId": 43,
+    "studentId": 1814,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 747
+  },
+  {
+    "classId": 43,
+    "studentId": 1815,
+    "date": "2025-12-11",
+    "status": "absent",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 748
+  },
+  {
+    "classId": 43,
+    "studentId": 1816,
+    "date": "2025-12-11",
+    "status": "absent",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 749
+  },
+  {
+    "classId": 43,
+    "studentId": 1817,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 750
+  },
+  {
+    "classId": 43,
+    "studentId": 1818,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 751
+  },
+  {
+    "classId": 43,
+    "studentId": 1819,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 752
+  },
+  {
+    "classId": 43,
+    "studentId": 1820,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 753
+  },
+  {
+    "classId": 43,
+    "studentId": 1821,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 754
+  },
+  {
+    "classId": 43,
+    "studentId": 1822,
+    "date": "2025-12-11",
+    "status": "absent",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 755
+  },
+  {
+    "classId": 43,
+    "studentId": 1823,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 756
+  },
+  {
+    "classId": 43,
+    "studentId": 1824,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 757
+  },
+  {
+    "classId": 43,
+    "studentId": 1825,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 758
+  },
+  {
+    "classId": 43,
+    "studentId": 1826,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 759
+  },
+  {
+    "classId": 43,
+    "studentId": 1827,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 760
+  },
+  {
+    "classId": 43,
+    "studentId": 1828,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.737Z",
+    "id": 761
+  },
+  {
+    "classId": 43,
+    "studentId": 1829,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 762
+  },
+  {
+    "classId": 43,
+    "studentId": 1830,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 763
+  },
+  {
+    "classId": 43,
+    "studentId": 1831,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 764
+  },
+  {
+    "classId": 43,
+    "studentId": 1832,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 765
+  },
+  {
+    "classId": 43,
+    "studentId": 1833,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 766
+  },
+  {
+    "classId": 43,
+    "studentId": 1834,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 767
+  },
+  {
+    "classId": 43,
+    "studentId": 1835,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 768
+  },
+  {
+    "classId": 43,
+    "studentId": 1850,
+    "date": "2025-12-11",
+    "status": "absent",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 769
+  },
+  {
+    "classId": 43,
+    "studentId": 1851,
+    "date": "2025-12-11",
+    "status": "absent",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 770
+  },
+  {
+    "classId": 43,
+    "studentId": 1836,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 771
+  },
+  {
+    "classId": 43,
+    "studentId": 1837,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 772
+  },
+  {
+    "classId": 43,
+    "studentId": 1838,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 773
+  },
+  {
+    "classId": 43,
+    "studentId": 1839,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 774
+  },
+  {
+    "classId": 43,
+    "studentId": 1840,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 775
+  },
+  {
+    "classId": 43,
+    "studentId": 1841,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 776
+  },
+  {
+    "classId": 43,
+    "studentId": 1842,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 777
+  },
+  {
+    "classId": 43,
+    "studentId": 1843,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 778
+  },
+  {
+    "classId": 43,
+    "studentId": 1844,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 779
+  },
+  {
+    "classId": 43,
+    "studentId": 1845,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 780
+  },
+  {
+    "classId": 43,
+    "studentId": 1846,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 781
+  },
+  {
+    "classId": 43,
+    "studentId": 1847,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 782
+  },
+  {
+    "classId": 43,
+    "studentId": 1848,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 783
+  },
+  {
+    "classId": 43,
+    "studentId": 1849,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 784
+  },
+  {
+    "classId": 43,
+    "studentId": 1852,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 785
+  },
+  {
+    "classId": 43,
+    "studentId": 1853,
+    "date": "2025-12-11",
+    "status": "present",
+    "createdAt": "2025-12-11T05:32:40.738Z",
+    "id": 786
+  },
+  {
+    "classId": 68,
+    "studentId": 1798,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.868Z",
+    "id": 787
+  },
+  {
+    "classId": 68,
+    "studentId": 1799,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.869Z",
+    "id": 788
+  },
+  {
+    "classId": 68,
+    "studentId": 1800,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.869Z",
+    "id": 789
+  },
+  {
+    "classId": 68,
+    "studentId": 1801,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.869Z",
+    "id": 790
+  },
+  {
+    "classId": 68,
+    "studentId": 1802,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.869Z",
+    "id": 791
+  },
+  {
+    "classId": 68,
+    "studentId": 1803,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.869Z",
+    "id": 792
+  },
+  {
+    "classId": 68,
+    "studentId": 1804,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.869Z",
+    "id": 793
+  },
+  {
+    "classId": 68,
+    "studentId": 1805,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.869Z",
+    "id": 794
+  },
+  {
+    "classId": 68,
+    "studentId": 1806,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 795
+  },
+  {
+    "classId": 68,
+    "studentId": 1807,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 796
+  },
+  {
+    "classId": 68,
+    "studentId": 1808,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 797
+  },
+  {
+    "classId": 68,
+    "studentId": 1809,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 798
+  },
+  {
+    "classId": 68,
+    "studentId": 1810,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 799
+  },
+  {
+    "classId": 68,
+    "studentId": 1811,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 800
+  },
+  {
+    "classId": 68,
+    "studentId": 1812,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 801
+  },
+  {
+    "classId": 68,
+    "studentId": 1813,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 802
+  },
+  {
+    "classId": 68,
+    "studentId": 1814,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 803
+  },
+  {
+    "classId": 68,
+    "studentId": 1815,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 804
+  },
+  {
+    "classId": 68,
+    "studentId": 1816,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 805
+  },
+  {
+    "classId": 68,
+    "studentId": 1817,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 806
+  },
+  {
+    "classId": 68,
+    "studentId": 1818,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 807
+  },
+  {
+    "classId": 68,
+    "studentId": 1819,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 808
+  },
+  {
+    "classId": 68,
+    "studentId": 1820,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 809
+  },
+  {
+    "classId": 68,
+    "studentId": 1821,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 810
+  },
+  {
+    "classId": 68,
+    "studentId": 1822,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 811
+  },
+  {
+    "classId": 68,
+    "studentId": 1823,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 812
+  },
+  {
+    "classId": 68,
+    "studentId": 1824,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 813
+  },
+  {
+    "classId": 68,
+    "studentId": 1825,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 814
+  },
+  {
+    "classId": 68,
+    "studentId": 1826,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 815
+  },
+  {
+    "classId": 68,
+    "studentId": 1827,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 816
+  },
+  {
+    "classId": 68,
+    "studentId": 1828,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.870Z",
+    "id": 817
+  },
+  {
+    "classId": 68,
+    "studentId": 1829,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 818
+  },
+  {
+    "classId": 68,
+    "studentId": 1830,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 819
+  },
+  {
+    "classId": 68,
+    "studentId": 1831,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 820
+  },
+  {
+    "classId": 68,
+    "studentId": 1832,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 821
+  },
+  {
+    "classId": 68,
+    "studentId": 1833,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 822
+  },
+  {
+    "classId": 68,
+    "studentId": 1834,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 823
+  },
+  {
+    "classId": 68,
+    "studentId": 1835,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 824
+  },
+  {
+    "classId": 68,
+    "studentId": 1836,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 825
+  },
+  {
+    "classId": 68,
+    "studentId": 1837,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 826
+  },
+  {
+    "classId": 68,
+    "studentId": 1838,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 827
+  },
+  {
+    "classId": 68,
+    "studentId": 1839,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 828
+  },
+  {
+    "classId": 68,
+    "studentId": 1840,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 829
+  },
+  {
+    "classId": 68,
+    "studentId": 1841,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 830
+  },
+  {
+    "classId": 68,
+    "studentId": 1842,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 831
+  },
+  {
+    "classId": 68,
+    "studentId": 1843,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 832
+  },
+  {
+    "classId": 68,
+    "studentId": 1844,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 833
+  },
+  {
+    "classId": 68,
+    "studentId": 1845,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 834
+  },
+  {
+    "classId": 68,
+    "studentId": 1846,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 835
+  },
+  {
+    "classId": 68,
+    "studentId": 1847,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 836
+  },
+  {
+    "classId": 68,
+    "studentId": 1848,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 837
+  },
+  {
+    "classId": 68,
+    "studentId": 1849,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 838
+  },
+  {
+    "classId": 68,
+    "studentId": 1850,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 839
+  },
+  {
+    "classId": 68,
+    "studentId": 1851,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 840
+  },
+  {
+    "classId": 68,
+    "studentId": 1852,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 841
+  },
+  {
+    "classId": 68,
+    "studentId": 1853,
+    "date": "2025-12-11",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:05:34.871Z",
+    "id": 842
+  },
+  {
+    "classId": 68,
+    "studentId": 1798,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.808Z",
+    "id": 843
+  },
+  {
+    "classId": 68,
+    "studentId": 1799,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 844
+  },
+  {
+    "classId": 68,
+    "studentId": 1800,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 845
+  },
+  {
+    "classId": 68,
+    "studentId": 1801,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 846
+  },
+  {
+    "classId": 68,
+    "studentId": 1802,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 847
+  },
+  {
+    "classId": 68,
+    "studentId": 1803,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 848
+  },
+  {
+    "classId": 68,
+    "studentId": 1804,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 849
+  },
+  {
+    "classId": 68,
+    "studentId": 1805,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 850
+  },
+  {
+    "classId": 68,
+    "studentId": 1806,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 851
+  },
+  {
+    "classId": 68,
+    "studentId": 1807,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 852
+  },
+  {
+    "classId": 68,
+    "studentId": 1808,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 853
+  },
+  {
+    "classId": 68,
+    "studentId": 1809,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 854
+  },
+  {
+    "classId": 68,
+    "studentId": 1810,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 855
+  },
+  {
+    "classId": 68,
+    "studentId": 1811,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 856
+  },
+  {
+    "classId": 68,
+    "studentId": 1812,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 857
+  },
+  {
+    "classId": 68,
+    "studentId": 1813,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 858
+  },
+  {
+    "classId": 68,
+    "studentId": 1814,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 859
+  },
+  {
+    "classId": 68,
+    "studentId": 1815,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 860
+  },
+  {
+    "classId": 68,
+    "studentId": 1816,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 861
+  },
+  {
+    "classId": 68,
+    "studentId": 1817,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 862
+  },
+  {
+    "classId": 68,
+    "studentId": 1818,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 863
+  },
+  {
+    "classId": 68,
+    "studentId": 1819,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.809Z",
+    "id": 864
+  },
+  {
+    "classId": 68,
+    "studentId": 1820,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 865
+  },
+  {
+    "classId": 68,
+    "studentId": 1821,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 866
+  },
+  {
+    "classId": 68,
+    "studentId": 1822,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 867
+  },
+  {
+    "classId": 68,
+    "studentId": 1823,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 868
+  },
+  {
+    "classId": 68,
+    "studentId": 1824,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 869
+  },
+  {
+    "classId": 68,
+    "studentId": 1825,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 870
+  },
+  {
+    "classId": 68,
+    "studentId": 1826,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 871
+  },
+  {
+    "classId": 68,
+    "studentId": 1827,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 872
+  },
+  {
+    "classId": 68,
+    "studentId": 1828,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 873
+  },
+  {
+    "classId": 68,
+    "studentId": 1829,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 874
+  },
+  {
+    "classId": 68,
+    "studentId": 1830,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 875
+  },
+  {
+    "classId": 68,
+    "studentId": 1831,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 876
+  },
+  {
+    "classId": 68,
+    "studentId": 1832,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 877
+  },
+  {
+    "classId": 68,
+    "studentId": 1833,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 878
+  },
+  {
+    "classId": 68,
+    "studentId": 1834,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 879
+  },
+  {
+    "classId": 68,
+    "studentId": 1835,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 880
+  },
+  {
+    "classId": 68,
+    "studentId": 1836,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 881
+  },
+  {
+    "classId": 68,
+    "studentId": 1837,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 882
+  },
+  {
+    "classId": 68,
+    "studentId": 1838,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 883
+  },
+  {
+    "classId": 68,
+    "studentId": 1839,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 884
+  },
+  {
+    "classId": 68,
+    "studentId": 1840,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 885
+  },
+  {
+    "classId": 68,
+    "studentId": 1841,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "present",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 886
+  },
+  {
+    "classId": 68,
+    "studentId": 1842,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 887
+  },
+  {
+    "classId": 68,
+    "studentId": 1843,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 888
+  },
+  {
+    "classId": 68,
+    "studentId": 1844,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.810Z",
+    "id": 889
+  },
+  {
+    "classId": 68,
+    "studentId": 1845,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.811Z",
+    "id": 890
+  },
+  {
+    "classId": 68,
+    "studentId": 1846,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.811Z",
+    "id": 891
+  },
+  {
+    "classId": 68,
+    "studentId": 1847,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.811Z",
+    "id": 892
+  },
+  {
+    "classId": 68,
+    "studentId": 1848,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.811Z",
+    "id": 893
+  },
+  {
+    "classId": 68,
+    "studentId": 1849,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.811Z",
+    "id": 894
+  },
+  {
+    "classId": 68,
+    "studentId": 1850,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.811Z",
+    "id": 895
+  },
+  {
+    "classId": 68,
+    "studentId": 1851,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.811Z",
+    "id": 896
+  },
+  {
+    "classId": 68,
+    "studentId": 1852,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.811Z",
+    "id": 897
+  },
+  {
+    "classId": 68,
+    "studentId": 1853,
+    "date": "2025-12-10",
+    "session": 1,
+    "status": "absent",
+    "notes": "Session 1",
+    "createdAt": "2025-12-11T11:09:43.811Z",
+    "id": 898
+  },
+  {
+    "classId": 68,
+    "studentId": 1798,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.840Z",
+    "id": 899
+  },
+  {
+    "classId": 68,
+    "studentId": 1799,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.840Z",
+    "id": 900
+  },
+  {
+    "classId": 68,
+    "studentId": 1800,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.840Z",
+    "id": 901
+  },
+  {
+    "classId": 68,
+    "studentId": 1801,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.840Z",
+    "id": 902
+  },
+  {
+    "classId": 68,
+    "studentId": 1802,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.840Z",
+    "id": 903
+  },
+  {
+    "classId": 68,
+    "studentId": 1803,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.840Z",
+    "id": 904
+  },
+  {
+    "classId": 68,
+    "studentId": 1804,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 905
+  },
+  {
+    "classId": 68,
+    "studentId": 1805,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 906
+  },
+  {
+    "classId": 68,
+    "studentId": 1806,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 907
+  },
+  {
+    "classId": 68,
+    "studentId": 1807,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 908
+  },
+  {
+    "classId": 68,
+    "studentId": 1808,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 909
+  },
+  {
+    "classId": 68,
+    "studentId": 1809,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 910
+  },
+  {
+    "classId": 68,
+    "studentId": 1810,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 911
+  },
+  {
+    "classId": 68,
+    "studentId": 1811,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 912
+  },
+  {
+    "classId": 68,
+    "studentId": 1812,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 913
+  },
+  {
+    "classId": 68,
+    "studentId": 1813,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 914
+  },
+  {
+    "classId": 68,
+    "studentId": 1814,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 915
+  },
+  {
+    "classId": 68,
+    "studentId": 1815,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 916
+  },
+  {
+    "classId": 68,
+    "studentId": 1816,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 917
+  },
+  {
+    "classId": 68,
+    "studentId": 1817,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 918
+  },
+  {
+    "classId": 68,
+    "studentId": 1818,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 919
+  },
+  {
+    "classId": 68,
+    "studentId": 1819,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 920
+  },
+  {
+    "classId": 68,
+    "studentId": 1820,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 921
+  },
+  {
+    "classId": 68,
+    "studentId": 1821,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 922
+  },
+  {
+    "classId": 68,
+    "studentId": 1822,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 923
+  },
+  {
+    "classId": 68,
+    "studentId": 1823,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 924
+  },
+  {
+    "classId": 68,
+    "studentId": 1824,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 925
+  },
+  {
+    "classId": 68,
+    "studentId": 1825,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 926
+  },
+  {
+    "classId": 68,
+    "studentId": 1826,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 927
+  },
+  {
+    "classId": 68,
+    "studentId": 1827,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 928
+  },
+  {
+    "classId": 68,
+    "studentId": 1828,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 929
+  },
+  {
+    "classId": 68,
+    "studentId": 1829,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 930
+  },
+  {
+    "classId": 68,
+    "studentId": 1830,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.841Z",
+    "id": 931
+  },
+  {
+    "classId": 68,
+    "studentId": 1831,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 932
+  },
+  {
+    "classId": 68,
+    "studentId": 1832,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 933
+  },
+  {
+    "classId": 68,
+    "studentId": 1833,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 934
+  },
+  {
+    "classId": 68,
+    "studentId": 1834,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 935
+  },
+  {
+    "classId": 68,
+    "studentId": 1835,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 936
+  },
+  {
+    "classId": 68,
+    "studentId": 1836,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 937
+  },
+  {
+    "classId": 68,
+    "studentId": 1837,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 938
+  },
+  {
+    "classId": 68,
+    "studentId": 1838,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 939
+  },
+  {
+    "classId": 68,
+    "studentId": 1839,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 940
+  },
+  {
+    "classId": 68,
+    "studentId": 1840,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 941
+  },
+  {
+    "classId": 68,
+    "studentId": 1841,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "present",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 942
+  },
+  {
+    "classId": 68,
+    "studentId": 1842,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 943
+  },
+  {
+    "classId": 68,
+    "studentId": 1843,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 944
+  },
+  {
+    "classId": 68,
+    "studentId": 1844,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 945
+  },
+  {
+    "classId": 68,
+    "studentId": 1845,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 946
+  },
+  {
+    "classId": 68,
+    "studentId": 1846,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 947
+  },
+  {
+    "classId": 68,
+    "studentId": 1847,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 948
+  },
+  {
+    "classId": 68,
+    "studentId": 1848,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 949
+  },
+  {
+    "classId": 68,
+    "studentId": 1849,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 950
+  },
+  {
+    "classId": 68,
+    "studentId": 1850,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 951
+  },
+  {
+    "classId": 68,
+    "studentId": 1851,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 952
+  },
+  {
+    "classId": 68,
+    "studentId": 1852,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 953
+  },
+  {
+    "classId": 68,
+    "studentId": 1853,
+    "date": "2025-12-10",
+    "session": 2,
+    "status": "absent",
+    "notes": "Session 2",
+    "createdAt": "2025-12-11T11:09:43.842Z",
+    "id": 954
+  },
+  {
+    "classId": 68,
+    "studentId": 1798,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.857Z",
+    "id": 955
+  },
+  {
+    "classId": 68,
+    "studentId": 1799,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 956
+  },
+  {
+    "classId": 68,
+    "studentId": 1800,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 957
+  },
+  {
+    "classId": 68,
+    "studentId": 1801,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 958
+  },
+  {
+    "classId": 68,
+    "studentId": 1802,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 959
+  },
+  {
+    "classId": 68,
+    "studentId": 1803,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 960
+  },
+  {
+    "classId": 68,
+    "studentId": 1804,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 961
+  },
+  {
+    "classId": 68,
+    "studentId": 1805,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 962
+  },
+  {
+    "classId": 68,
+    "studentId": 1806,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 963
+  },
+  {
+    "classId": 68,
+    "studentId": 1807,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 964
+  },
+  {
+    "classId": 68,
+    "studentId": 1808,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 965
+  },
+  {
+    "classId": 68,
+    "studentId": 1809,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 966
+  },
+  {
+    "classId": 68,
+    "studentId": 1810,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 967
+  },
+  {
+    "classId": 68,
+    "studentId": 1811,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 968
+  },
+  {
+    "classId": 68,
+    "studentId": 1812,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 969
+  },
+  {
+    "classId": 68,
+    "studentId": 1813,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 970
+  },
+  {
+    "classId": 68,
+    "studentId": 1814,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 971
+  },
+  {
+    "classId": 68,
+    "studentId": 1815,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 972
+  },
+  {
+    "classId": 68,
+    "studentId": 1816,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 973
+  },
+  {
+    "classId": 68,
+    "studentId": 1817,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 974
+  },
+  {
+    "classId": 68,
+    "studentId": 1818,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 975
+  },
+  {
+    "classId": 68,
+    "studentId": 1819,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 976
+  },
+  {
+    "classId": 68,
+    "studentId": 1820,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 977
+  },
+  {
+    "classId": 68,
+    "studentId": 1821,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 978
+  },
+  {
+    "classId": 68,
+    "studentId": 1822,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 979
+  },
+  {
+    "classId": 68,
+    "studentId": 1823,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 980
+  },
+  {
+    "classId": 68,
+    "studentId": 1824,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.858Z",
+    "id": 981
+  },
+  {
+    "classId": 68,
+    "studentId": 1825,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 982
+  },
+  {
+    "classId": 68,
+    "studentId": 1826,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 983
+  },
+  {
+    "classId": 68,
+    "studentId": 1827,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 984
+  },
+  {
+    "classId": 68,
+    "studentId": 1828,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 985
+  },
+  {
+    "classId": 68,
+    "studentId": 1829,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 986
+  },
+  {
+    "classId": 68,
+    "studentId": 1830,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 987
+  },
+  {
+    "classId": 68,
+    "studentId": 1831,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 988
+  },
+  {
+    "classId": 68,
+    "studentId": 1832,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 989
+  },
+  {
+    "classId": 68,
+    "studentId": 1833,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 990
+  },
+  {
+    "classId": 68,
+    "studentId": 1834,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 991
+  },
+  {
+    "classId": 68,
+    "studentId": 1835,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 992
+  },
+  {
+    "classId": 68,
+    "studentId": 1836,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 993
+  },
+  {
+    "classId": 68,
+    "studentId": 1837,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 994
+  },
+  {
+    "classId": 68,
+    "studentId": 1838,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 995
+  },
+  {
+    "classId": 68,
+    "studentId": 1839,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 996
+  },
+  {
+    "classId": 68,
+    "studentId": 1840,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 997
+  },
+  {
+    "classId": 68,
+    "studentId": 1841,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "present",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 998
+  },
+  {
+    "classId": 68,
+    "studentId": 1842,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 999
+  },
+  {
+    "classId": 68,
+    "studentId": 1843,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1000
+  },
+  {
+    "classId": 68,
+    "studentId": 1844,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1001
+  },
+  {
+    "classId": 68,
+    "studentId": 1845,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1002
+  },
+  {
+    "classId": 68,
+    "studentId": 1846,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1003
+  },
+  {
+    "classId": 68,
+    "studentId": 1847,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1004
+  },
+  {
+    "classId": 68,
+    "studentId": 1848,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1005
+  },
+  {
+    "classId": 68,
+    "studentId": 1849,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1006
+  },
+  {
+    "classId": 68,
+    "studentId": 1850,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1007
+  },
+  {
+    "classId": 68,
+    "studentId": 1851,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1008
+  },
+  {
+    "classId": 68,
+    "studentId": 1852,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1009
+  },
+  {
+    "classId": 68,
+    "studentId": 1853,
+    "date": "2025-12-10",
+    "session": 3,
+    "status": "absent",
+    "notes": "Session 3",
+    "createdAt": "2025-12-11T11:09:43.859Z",
+    "id": 1010
+  }
+]
